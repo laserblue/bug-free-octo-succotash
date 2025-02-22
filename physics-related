@@ -9,6 +9,12 @@ Modeling Workstation for Learning and Doing Physics
 
 https://einsteintoolkit.org/
 
+Geant4
+"Geant4 is an open-source toolkit that enables [sic! "one to simulate particle passage through matter." or "...simulation of particle passage through matter."] to simulate particle passage through matter. 
+It is written in C++ and offers a wide range of tools for users to employ in their applications. 
+More information on the overview of the package can be found in the Introduction to Geant4."
+https://geant4.web.cern.ch/
+
   https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines
 
 Labster https://www.labster.com/discipline/physics
