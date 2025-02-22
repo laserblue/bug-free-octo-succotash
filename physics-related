@@ -1,9 +1,13 @@
 Modeling Workstation for Learning and Doing Physics
   StemCStudio  (https://www.stemcstudio.com/)
-  https://www.youtube.com/playlist?list=PLxo3PbygE0PLdFFy_2b02JAaUsleFW8py
-  https://www.youtube.com/playlist?list=PLxo3PbygE0PKHwDaqpy-lp1TeRxpUWeHw
+    https://www.youtube.com/playlist?list=PLxo3PbygE0PLdFFy_2b02JAaUsleFW8py
+    https://www.youtube.com/playlist?list=PLxo3PbygE0PKHwDaqpy-lp1TeRxpUWeHw
   
+  Reference: MODELING SOFTWARE for learning and doing physics by DAVID HESTENES
+             Arizona State University 
+             https://davidhestenes.net/geocalc/pdf/ModelingSoftware.pdf
 
+https://einsteintoolkit.org/
 
   https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines
 
@@ -16,28 +20,42 @@ Virtual Physics Labs
   https://virtuallabs.merlot.org/vl_physics.html#BCCPHYSICS
   https://www.kcvs.ca/cards.html?type=applets
   
-
+  
   https://www.vlab.co.in/broad-area-physical-sciences
 
+  
+
 Phet  https://phet.colorado.edu/
+
+https://vpython.org/
+https://vpython.org/presentation2018/noinstall.html
+https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/
+  https://engcourses-uofa.ca/wp-content/uploads/Visual-Python-VPython-ver-2.pdf
+
+https://bphilhour.trinket.io/physics-through-glowscript-an-introductory-course#/1-introduction-objects-parameters-and-the-3d-environment/welcome-and-introduction
+    - Not quite there yet in terms of Conceptual Indexing and question-based indexing of Conversational Hypertext with Conversational Search Agents and Course Checksheet of tasks and integrated interactive exercises, but it's on the right path. 
+    (also needs tooltip word definitions, biographical and historical footnote tooltips and interactive annotations (e.g. colored highlighting, icon for notes, text note or comment on document, underlining text and other text decorations, drawing on document etc.) and note clipping of quotes with citation particulars for Obsidian, Notion and Miro Whiteboard)
+https://trinket.io/
  
 
 https://ophysics.com/
 
-
-
 Reference: https://davidhestenes.net/geocalc/pdf/ModelingSoftware.pdf
+Reference: Foundations of Mechanics ©D. Hestenes 1998. (Originally published as Chapter 9 in the first edition of New Foundations for Classical Mechanics, 1986.)
+           (https://davidhestenes.net/geocalc/pdf/Foundations.pdf)
 
 https://bivector.net/
 
-
-
-
-
+Pedagogy
 Mentored Experiential Learning (Both analog and digital)
 Goal-based Scenarios, Story-based curriculum
 Kidzania
+CERN Beamline for Schools (https://beamlineforschools.cern/)
 Brilliant.org
+
+International Physics Olympiad https://ipho-unofficial.org/
+Canadian Physics Olympiad https://outreach.phas.ubc.ca/exams-and-competitions/canadian-physics-olympiad/
+  https://physoly.phas.ubc.ca/
 
 
 ROOT (https://root.cern/)
@@ -66,8 +84,66 @@ Nonlinear Conversational Hypertext Reading System and Conversational Search Assi
 ======================================================================================
 New Foundations for Classical Mechanics by David Hestenes
 
-David Hestenes Archive
+https://davidhestenes.net/geocalc/html/Modeling.html
+  
 
+David Hestenes Archive (https://davidhestenes.net/)
+  https://davidhestenes.net/geocalc/
+  https://davidhestenes.net/physics-papers/
+  https://davidhestenes.net/education-papers/
+  https://davidhestenes.net/misc/Hestenes_2016_-_The_Genesis_of_Geometric_Algebra,_A_Personal_Retrospective.pdf
+  https://davidhestenes.net/misc/Hestenes_2012_-_Interview_(Tasar).pdf
+
+University of Cambridge, Geometric Algebra (https://geometry.mrao.cam.ac.uk/)
+
+
+Geometric Algebra for Physics (https://geometry.mrao.cam.ac.uk/2007/01/geometric-algebra-for-physicists/)
+
+Alan Macdonald
+https://www.faculty.luther.edu/~macdonal/
+https://www.faculty.luther.edu/~macdonal/index.html#geometric-algebra
+
+
+Videos
+Geometric Algebra, First Course, Episode 00: High Level Overview.
+  David Geo Holmes (STEMCstudio) (https://www.youtube.com/watch?v=e5D7Bma9Vhw)
+
+Geometric Algebra YouTube Playlist (https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt)
+Geometric Calculus YouTube Playlist (https://www.youtube.com/playlist?list=PLLvlxwbzkr7i6DlChcYEL7nJ8R9ZuV8JA)
+
+A Swift Introduction to Geometric Algebra by YouTube Channel: sudgylacmoe (https://www.youtube.com/watch?v=60z_hpEAtD8)
+
+STEMCstudio Manual YouTube Playlist by David Geo Holmes (STEMCstudio) (https://www.youtube.com/playlist?list=PLxo3PbygE0PKHwDaqpy-lp1TeRxpUWeHw)
+
+https://www.youtube.com/@DotPhysics
+
+https://www.youtube.com/user/danroamclips
+  https://youtu.be/ZUis4syBihA?si=VXRMgWxkxkg1S053
+  https://www.youtube.com/watch?v=kSpBxwkRZjE
+  
+
+Web Pages
+https://www.stemcstudio.com/
+https://www.geogebra.org/search/geometric%20algebra
+https://www.geogebra.org/m/qzDtMW2q
+
+
+
+Books
+Linear and Geometric Algebra (https://www.faculty.luther.edu/~macdonal/laga/index.html)
+Vector and Geometric Calculus by Alan Macdonald (https://www.faculty.luther.edu/~macdonal/vagc/index.html)
+
+papers (unpublished)
+General Relativity in a Nutshell
+October 2, 2017
+by Alan Macdonald
+Luther College, Decorah, 
+IA USA
+mailto:macdonal@luther.edu
+http://faculty.luther.edu/~macdonal
+(https://www.faculty.luther.edu/~macdonal/EGR.pdf)
+
+Books
 Similarities in Physics by John N. Shive
 
 Lagrangian Interaction
@@ -125,7 +201,7 @@ Web of Stories (https://www.webofstories.com/  https://www.youtube.com/@webofsto
 
 
 
-
+=================================================================================================================================================================================
 Nonlinear Conversational Hypertext Reading System and Conversational Search Assistants
   Video Study Buddy
 
@@ -174,6 +250,8 @@ Physics Textbooks
 
   https://www.feynmanlectures.caltech.edu/
 
+  What Physics Textbooks Should You Buy? Andrew Dotson (https://www.youtube.com/watch?v=-eshxkGri8E)
+
   Science and Physics Books and textbooks 
 
   High School age related books on science and physics topics
@@ -217,12 +295,6 @@ Physics Textbooks
 
 Physics video documentaries e.g. NOVA documentaries
 Physics books
-
-
-
-
-
-
 
 ===============================================================================================================
 
